@@ -6,6 +6,11 @@ authors = ["jace-ys <jaceys.tan@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+jupyterlab = "^2.2.8"
+numpy = "1.19.4"
+matplotlib = "^3.3.2"
+tqdm = "^4.51.0"
+ipywidgets = "^7.5.1"
 
 [tool.poetry.dev-dependencies]
 
